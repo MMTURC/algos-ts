@@ -24,3 +24,8 @@ function o(n :string ): number{
 
     return sum;
 }
+
+// Big-O side notes
+// Growth with input
+// Constants are dropped
+// Worst case is usually the way we measure
