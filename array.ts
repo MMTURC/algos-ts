@@ -2,6 +2,6 @@
 console.log("Hello World!");
 
 
- let message: String = "poop in my socks"
+let message: string = "Hello World!"
 
- console.log(message)
+console.log(message)
